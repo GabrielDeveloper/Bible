@@ -1,0 +1,116 @@
+Gênesis 5:1 : 1Crônicas 1.1-4
+Gênesis 10:1 : 1Crônicas 1.5-23
+Gênesis 36:1 : 1Crônicas 1.34-37
+Êxodo 17:1 : Números 20.1-13
+Êxodo 19:1 : Êxodo 24.1-8
+Êxodo 20:1 : Deuteronômio 5.1-21
+Êxodo 21:1 : Deuteronômio 15.12-18
+Êxodo 25:1 : Êxodo 35.4-9
+Êxodo 26:1 : Êxodo 36.8-38
+Êxodo 27:1 : Êxodo 38.1-7
+Êxodo 28:1 : Êxodo 39.1
+Êxodo 29:1 : Levítico 8.1-36
+Êxodo 30:1 : Êxodo 37.25-28
+Êxodo 31:1 : Êxodo 35.30—36.1
+Êxodo 32:1 : Deuteronômio 9.7-29
+Êxodo 34:1 : Deuteronômio 10.1-5
+Êxodo 37:1 : Êxodo 25.10-22
+Êxodo 38:1 : Êxodo 27.1-8
+Êxodo 39:1 : Êxodo 28.1-5
+Levítico 8:1 : Êxodo 29.1-37
+Levítico 11:1 : Deuteronômio 14.3-20
+Levítico 24:1 : Êxodo 25.31-40; 27.20-21
+Levítico 25:1 : Deuteronômio 15.1-11
+Levítico 26:1 : Deuteronômio 7.12-24; 28.1-14
+Números 13:1 : Deuteronômio 1.19-33
+Números 20:1 : Êxodo 17.1-7
+Números 28:1 : Êxodo 29.38-46
+Números 29:1 : Levítico 23.23-25
+Números 32:1 : Deuteronômio 3.12-22
+Deuteronômio 3:1 : Números 21.33-35
+Deuteronômio 5:1 : Êxodo 20.1-17
+Deuteronômio 7:1 : Êxodo 34.10-16
+Deuteronômio 10:1 : Êxodo 34.1-9
+Deuteronômio 15:1 : Levítico 25.1-7
+Deuteronômio 16:1 : Êxodo 12.1-20; Levítico 23.5-8; Números 28.16-25
+Deuteronômio 19:1 : Números 35.9-29
+Deuteronômio 28:1 : Levítico 26.3-13; Deuteronômio 7.12-24
+Josué 20:1 : Números 35.6-28; Deuteronômio 4.41-43; 19.1-13
+Josué 21:1 : 1Crônicas 6.54-81
+Esdras 1:1 : 2Crônicas 36.22-23
+Esdras 2:1 : Neemias 7.4-73
+Salmos 14:1 : Salmo 53
+Salmos 18:1 : 2Samuel 22.2-51
+Salmos 53:1 : Salmo 14
+Salmos 70:1 : Salmo 40.13-17
+Salmos 96:1 : 1Crônicas 16.23-33
+Salmos 105:1 : 1Crônicas 16.8-22
+Salmos 108:1 : Salmo 57.7-11; 60.5-12
+Isaías 2:1 : Miqueias 4.1-3
+Isaías 36:1 : 2Reis 18.13-37; 2Crônicas 32.1-19
+Isaías 37:1 : 2Reis 19.1-7
+Isaías 38:1 : 2Reis 20.1-11; 2Crônicas 32.24-26
+Isaías 39:1 : 2Reis 20.12-19
+Jeremias 39:1 : 2Reis 25.1-21; 2Crônicas 36.17-21; Jeremias 52.3-30
+Jeremias 52:1 : 2Reis 24.18—25.7; 2Crônicas 36.11-21; Jeremias 39.1-7
+Ezequiel 33:1 : Ezequiel 3.16-21
+Miquéias 4:1 : Isaías 2.2-4
+Mateus 1:1 : Lucas 3.23-38
+Mateus 3:1 : Marcos 1.1-8; Lucas 3.1-9,15-17; João 1.19-28
+Mateus 4:1 : Marcos 1.12-13; Lucas 4.1-13
+Mateus 7:1 : Lucas 6.37-38,41-42
+Mateus 8:1 : Marcos 1.40-45; Lucas 5.12-16
+Mateus 9:1 : Marcos 2.1-12; Lucas 5.17-26
+Mateus 10:1 : Marcos 3.13-19; Lucas 6.12-16
+Mateus 11:1 : Lucas 7.18-35
+Mateus 12:1 : Marcos 2.23-28; Lucas 6.1-5
+Mateus 13:1 : Marcos 4.1-9; Lucas 8.4-8
+Mateus 14:1 : Marcos 6.14-29; Lucas 9.7-9
+Mateus 15:1 : Marcos 7.1-13
+Mateus 16:1 : Marcos 8.11-13; Lucas 12.54-56
+Mateus 17:1 : Marcos 9.2-13; Lucas 9.28-36
+Mateus 18:1 : Marcos 9.33-37; Lucas 9.46-48
+Mateus 19:1 : Mateus 5.31-32; Marcos 10.1-12; Lucas 16.18
+Mateus 21:1 : Marcos 11.1-11; Lucas 19.28-40; João 12.12-19
+Mateus 22:1 : Lucas 14.15-24
+Mateus 23:1 : Marcos 12.38-39; Lucas 11.43,46; 20.45-46
+Mateus 24:1 : Marcos 13.1-2; Lucas 21.5-6
+Mateus 26:1 : Marcos 14.1-2; Lucas 22.1-2; João 11.45-57
+Mateus 27:1 : Marcos 15.1; Lucas 23.1-2; João 18.28-32
+Mateus 28:1 : Marcos 16.1-8; Lucas 24.1-12; João 20.1-10
+Marcos 1:1 : Mateus 3.1-12; Lucas 3.1-20; João 1.19-28
+Marcos 2:1 : Mateus 9.1-8; Lucas 5.17-26
+Marcos 3:1 : Mateus 12.9-14; Lucas 6.6-11
+Marcos 4:1 : Mateus 13.1-9; Lucas 8.4-8
+Marcos 5:1 : Mateus 8.28-34; Lucas 8.26-39
+Marcos 6:1 : Mateus 13.53-58; Lucas 4.16-30
+Marcos 7:1 : Mateus 15.1-9
+Marcos 8:1 : Mateus 15.32-39
+Marcos 10:1 : Mateus 5.31-32; 19.1-12; Lucas 16.18
+Marcos 11:1 : Mateus 21.1-11; Lucas 19.28-40; João 12.12-19
+Marcos 12:1 : Mateus 21.33-46; Lucas 20.9-19
+Marcos 13:1 : Mateus 24.1-2; Lucas 21.5-6
+Marcos 14:1 : Mateus 26.1-5; Lucas 22.1-2; João 11.45-57
+Marcos 15:1 : Mateus 27.1-2,11-14; Lucas 23.1-5; João 18.28-38a
+Marcos 16:1 : Mateus 28.1-8; Lucas 24.1-12; João 20.1-10
+Lucas 2:1 : Mateus 1.18-25
+Lucas 3:1 : Mateus 3.1-12; Marcos 1.1-8; João 1.19-28
+Lucas 4:1 : Mateus 4.1-11; Marcos 1.12-13
+Lucas 5:1 : Mateus 4.18-22; Marcos 1.16-20
+Lucas 6:1 : Mateus 12.1-8; Marcos 2.23-28
+Lucas 7:1 : Mateus 8.5-13
+Lucas 9:1 : Mateus 10.5-15; Marcos 6.6b-13
+Lucas 11:1 : Mateus 6.5-15; 7.7-11
+Lucas 12:1 : Mateus 10.26-27
+Lucas 15:1 : Mateus 18.10-14
+Lucas 17:1 : Mateus 18.6-7,21-35; Marcos 9.42
+Lucas 20:1 : Mateus 21.23-27; Marcos 11.27-33
+Lucas 21:1 : Marcos 12.41-44
+Lucas 22:1 : Mateus 26.1-5; Marcos 14.1-2; João 11.45-57
+Lucas 23:1 : Mateus 27.1-2,11-14; Marcos 15.1-5; João 18.28-38a
+Lucas 24:1 : Mateus 28.1-10; Marcos 16.1-10; João 20.1-10
+João 6:1 : Mateus 14.13-21; Marcos 6.30-44; Lucas 9.10-17
+João 12:1 : Mateus 26.6-13; Marcos 14.3-9
+João 18:1 : Mateus 26.47-56; Marcos 14.43-50; Lucas 22.47-54a
+João 20:1 : Mateus 28.1-8; Marcos 16.1-8; Lucas 24.1-12
+Atos 9:1 : Atos 22.6-16; 26.12-18
